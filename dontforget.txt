@@ -1,0 +1,5 @@
+IOS
+	"react-native run-ios"
+
+Android
+	"react-native run-android" or, better yet, in Visual Studio Code, "Debug and Run"
